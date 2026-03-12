@@ -14,7 +14,7 @@
 | 📐 Architect | `architect.md` | 技術選定、全体設計、API・DB設計、ADR記録 | `docs/api-specs/`, `.company/adr/` |
 | 🎨 Frontend Engineer | `frontend.md` | UI/UXの設計・実装 | `src/frontend/` |
 | ⚙️ Backend Engineer | `backend.md` | ビジネスロジックとAPIの実装 | `src/backend/` |
-| 🤖 AI Engineer | `ai_engineer.md` | LLM連携、RAG構築、プロンプト設計 | `src/ai/`, `docs/prompts/` |
+| 🤖 AI Engineer | `ai_engineer.md` | 自社AI独自開発、外部LLM連携は最終手段 | `src/ai/`, `docs/prompts/` |
 | 🚀 DevOps Engineer | `devops.md` | インフラ構築、CI/CDパイプライン整備 | `infra/`, `.github/` |
 | 🛡️ QA Engineer | `qa_engineer.md` | テスト実装、コードレビュー、品質保証 | `tests/`（全体読取権限あり） |
 

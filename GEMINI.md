@@ -38,7 +38,7 @@
     ├── architect.md             ← 📐 Architect
     ├── frontend.md              ← 🎨 Frontend Engineer
     ├── backend.md               ← ⚙️ Backend Engineer
-    ├── ai_engineer.md           ← 🤖 AI Engineer
+    ├── ai_engineer.md           ← 🤖 AI Engineer（自社AI開発）
     ├── devops.md                ← 🚀 DevOps Engineer
     └── qa_engineer.md           ← 🛡️ QA Engineer
 

@@ -26,7 +26,7 @@
 | 📐 **Architect** | 技術選定、API/DB 設計 | `docs/api-specs/`, `.company/adr/` |
 | 🎨 **Frontend** | UI/UX 実装 | `src/frontend/` |
 | ⚙️ **Backend** | ビジネスロジック、API 実装 | `src/backend/` |
-| 🤖 **AI Engineer** | LLM 連携、RAG、プロンプト設計 | `src/ai/`, `docs/prompts/` |
+| 🤖 **AI Engineer** | 自社AI独自開発（LLM連携は最終手段） | `src/ai/`, `docs/prompts/` |
 | 🚀 **DevOps** | インフラ、CI/CD | `infra/`, `.github/` |
 | 🛡️ **QA Engineer** | テスト、コードレビュー | `tests/` |
 
